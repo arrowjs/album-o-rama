@@ -1,7 +1,9 @@
-ArrowJS CMS
+Album-o-rama is converted http://album-o-rama.phalconphp.com/ using Phalcon PHP to Nodejs using ArrowJS Framework
 ==================
 
-Welcome to ArrowJS CMS! ArrowJS CMS is CMS base on ArrowJS framework, it helps you build your web application easier.
+Welcome to ArrowJS CMS!
+
+ArrowJS CMS is CMS base on ArrowJS framework, it helps you build your web application easier.
 
 Please write us if you have any feedback.
 
