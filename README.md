@@ -1,4 +1,4 @@
-Album-o-rama is converted http://album-o-rama.phalconphp.com/ using Phalcon PHP to Nodejs using ArrowJS Framework
+Album-o-rama is converted from http://album-o-rama.phalconphp.com/ using Phalcon PHP to Nodejs using ArrowJS Framework
 ==================
 
 Welcome to ArrowJS CMS!
